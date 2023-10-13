@@ -1,6 +1,6 @@
 # CineFlex Movie Management System
 
-This is a basic skeleton code for the CineFlex Movie Management System. The project is in its early stages and requires further refinement.
+This is a basic skeleton code for the **CineFlex** Movie Management System. The project is in its early stages and requires further refinement.
 
 ## Features
 
